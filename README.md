@@ -3,7 +3,7 @@
 <b>Features:</b>
 
 <ol>
-  <li>Admin and user login and registration;</li>
+  <li>Admin and user login, registration;</li>
   <li>User management for admins;</li>
   <li>Adding, editing and removing ingredients;</li>
   <li>Adding recipes;</li>
