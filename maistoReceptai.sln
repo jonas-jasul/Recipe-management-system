@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maistoReceptai", "maistoReceptai\maistoReceptai.csproj", "{C1EBB346-DF09-47F5-8D1A-7EFE30766FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1EBB346-DF09-47F5-8D1A-7EFE30766FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1EBB346-DF09-47F5-8D1A-7EFE30766FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1EBB346-DF09-47F5-8D1A-7EFE30766FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1EBB346-DF09-47F5-8D1A-7EFE30766FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F7222CC-C706-474D-A53D-EA5663B83A9B}
+	EndGlobalSection
+EndGlobal
